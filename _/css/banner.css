@@ -1,0 +1,11 @@
+.w-200p {
+    width: 200px;
+}
+
+.h-200p {
+    height: 200px;
+}
+
+.cover {
+    object-fit: cover;
+}
